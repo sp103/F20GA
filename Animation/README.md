@@ -2,7 +2,7 @@
 ## Animation
 
 I exported the models from Maya as fbx
-![export settings](Appendices/animation_screenshots/export.PNG)
+![export settings](./Appendices/animation_screenshots/export.PNG)
 
 I imported the fbx into unreal and the materials didn't work
 ![missing materials](Appendices/animation_screenshots/materials.PNG)
