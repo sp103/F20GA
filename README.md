@@ -1,3 +1,3 @@
 # F20GA_Coursework
 
-The theme I decided on was a detective's office
+This project contains an offline render, animated video and interactive application completed for my 3D graphics and animation course.
