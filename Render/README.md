@@ -32,7 +32,7 @@ Next I made the handset, for this I created a cube and used edge loops to give i
 
 I positioned the handset and the main body next to each other and created a cube and resized it to hold the handset, I then beveled the top to make it rounded and cloned it 3 times to hold the handset.
 
-![phone](Appendices/render_screenshots/phone.PNG)
+![phone](../Appendices/render_screenshots/phone.PNG)
 
 For the dial I used the preset arnold plastic material with the base and subsurface colours changed to black and for the dial I used the chrome material.
 
